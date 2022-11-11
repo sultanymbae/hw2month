@@ -83,4 +83,3 @@ hero1 = Air(name='Karl', nickname='Invoker', hp=780, damage=60)
 hero2 = Space(name='Pudge', nickname='Butcher', hp=800, damage=90)
 hero3 = Earthly(name='Gustavo', nickname='Gus', hp=1000, damage=200)
 hero1.brand_phrase()
-
