@@ -1,4 +1,4 @@
-git init
+ggit init
 добавляет в гит ваш проект
 
 git remote add origin .....
